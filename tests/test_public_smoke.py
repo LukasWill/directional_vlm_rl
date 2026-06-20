@@ -67,6 +67,7 @@ def test_citation_metadata():
     assert citation["repository-code"] == "https://github.com/LukasWill/directional_vlm_rl"
     assert citation["license"] == "MIT"
     assert citation["date-released"] == "2026-06-20"
+    assert "preferred-citation" not in citation
 
 
 def test_saved_run_analysis(tmp_path):

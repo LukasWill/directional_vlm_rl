@@ -217,6 +217,10 @@ pytest -q
 
 The test suite checks the configuration contract, dependency-file syntax, saved-run analysis, and release tree without importing GPU training dependencies. The test dependencies are included in `Code/requirements.txt`.
 
+## Related Paper
+
+This repository accompanies [Rewarding Change Beyond State: Directional VLM Rewards for Sample-Efficient Robot Reinforcement Learning](https://doi.org/10.1109/SII64115.2026.11404492).
+
 ## Third-Party Code and Acknowledgements
 
 This repository builds on and adapts components from FuRL:
