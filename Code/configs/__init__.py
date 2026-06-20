@@ -1,0 +1,1 @@
+from .metaworld import get_config

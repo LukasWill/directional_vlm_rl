@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Directional VLM-RL"
+type: software
+authors:
+  - name: "Directional VLM-RL contributors"
+abstract: >-
+  Temporal positional and directional reward shaping methods for
+  vision-language-model-guided reinforcement learning.
+repository-code: "https://github.com/LukasWill/directional_vlm_rl"
+url: "https://github.com/LukasWill/directional_vlm_rl"
+license: MIT
+version: 0.1.0
+date-released: "2026-06-20"
+keywords:
+  - reinforcement learning
+  - vision-language models
+  - reward shaping
+  - robot manipulation
